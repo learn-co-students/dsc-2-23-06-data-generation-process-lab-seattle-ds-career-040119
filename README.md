@@ -1,5 +1,5 @@
 
-# The Data Generation Process - Lab
+# Generating Data - Lab
 
 ## Introduction
 
